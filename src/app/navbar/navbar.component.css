@@ -1,0 +1,27 @@
+.card{
+    width: 800px;
+    height: 500px;
+    border-color: red;
+    margin: auto;
+}
+
+.card-header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-color: red;
+}
+
+.card-main{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+}
+
+.info{
+    width: 700px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
